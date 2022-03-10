@@ -7,12 +7,17 @@ contributor:
     deathdate: 1904
     gutenberg_agent_id: '42056'
     url: http://www.gutenberg.org/2009/agents/42056
+covers:
+- cover_type: archival
+  image_path: 67556-h/images/cover.jpg
 creator:
   author:
     agent_name: Tolstoj, Lev Nikolaevič
     gutenberg_agent_id: '54318'
     url: http://www.gutenberg.org/2009/agents/54318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67556#Che-cosa-e-l-arte
 gutenberg_issued: '2022-03-03'
 identifiers:
   gutenberg: '67556'
